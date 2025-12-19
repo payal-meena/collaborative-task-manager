@@ -39,6 +39,7 @@ This application allows users to create, assign, update, and manage tasks in rea
 
 ## Project Structure
 
+```bash
 collaborative-task-manager/
 ├── backend/
 │   └── src/
@@ -58,7 +59,7 @@ collaborative-task-manager/
 │       └── socket.js
 │
 └── README.md
-
+```
 
 ---
 
@@ -91,7 +92,7 @@ collaborative-task-manager/
 ```bash
 git clone https://github.com/your-username/collaborative-task-manager.git
 cd collaborative-task-manager
-```
+
 
 ### Backend Setup
 cd backend
@@ -110,7 +111,7 @@ cd frontend
 npm install
 npm run dev
 
----
+```
 
 ## API Endpoints
 
