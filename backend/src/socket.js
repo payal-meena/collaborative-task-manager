@@ -3,7 +3,7 @@ let io;
 const initSocket = (server) => {
   io = require("socket.io")(server, {
     cors: {
-      origin: "http://localhost:5173",
+      origin: "https://collaborative-task-manager-ochre.vercel.app/",
       credentials: true
     }
   });

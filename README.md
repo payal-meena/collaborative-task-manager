@@ -146,6 +146,11 @@ Password: 123456
 - Followed best practices for backend & frontend
 - Real-time features implemented using Socket.IO
 
+## Live Demo
+Frontend: https://collaborative-task-manager-ochre.vercel.app/  
+
+Backend API: https://collaborative-task-manager-xm0q.onrender.com/
+
 ## Author
 Payal Meena
 
