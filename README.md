@@ -117,12 +117,16 @@ npm run dev
 
 ### Auth
 POST /api/auth/login
+
 POST /api/auth/register
 
 ### Tasks
 GET /api/tasks
+
 POST /api/tasks
+
 PATCH /api/tasks/:id/status
+
 DELETE /api/tasks/:id
 
 ## Assignment Requirements Covered
